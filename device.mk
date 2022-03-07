@@ -62,7 +62,8 @@ PRODUCT_PACKAGES += \
 
 # KPOC
 PRODUCT_PACKAGES += \
-    libsuspend
+    libsuspend \
+    android.hardware.health@2.0
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
