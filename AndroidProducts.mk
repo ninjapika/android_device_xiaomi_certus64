@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_certus64.mk
+    $(LOCAL_DIR)/aosp_certus64.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_certus64-user \
-    nad_certus64-userdebug \
-    nad_certus64-eng
+    aosp_certus64-user \
+    aosp_certus64-userdebug \
+    aosp_certus64-eng
