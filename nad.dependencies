@@ -19,14 +19,8 @@
   },
   {
 	"remote": "github",
-	"repository": "ninjapika/vendor_mediatek_ims",
-	"target_path": "vendor/mediatek/ims",
-	"branch": "R"
-  },
-  {
-	"remote": "github",
-	"repository": "ninjapika/vendor_mediatek_interfaces",
-	"target_path": "vendor/mediatek/interfaces",
-	"branch": "R"
+	"repository": "ninjapika/vendor_mediatek-ims",
+	"target_path": "vendor/mediatek-ims",
+	"branch": "12"
   }
 ]
