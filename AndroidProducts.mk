@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_certus64.mk
+    $(LOCAL_DIR)/bliss_certus64.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_certus64-user \
-    nad_certus64-userdebug \
-    nad_certus64-eng
+    bliss_certus64-user \
+    bliss_certus64-userdebug \
+    bliss_certus64-eng
