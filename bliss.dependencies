@@ -7,20 +7,14 @@
   },
   {
 	"remote": "github",
-	"repository": "ninjapika/android_vendor_xiaomi",
+	"repository": "ninjapika/android_vendor_certus",
 	"target_path": "vendor/xiaomi",
-	"branch": "12"
+	"branch": "main"
   },
   {
 	"remote": "github",
 	"repository": "kbt69/libaptX",
 	"target_path": "external/libaptx",
 	"branch": "main"
-  },
-  {
-	"remote": "github",
-	"repository": "ninjapika/vendor_mediatek-ims",
-	"target_path": "vendor/mediatek-ims",
-	"branch": "12"
   }
 ]

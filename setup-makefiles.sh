@@ -8,6 +8,9 @@
 set -e
 
 INITIAL_COPYRIGHT_YEAR=2018
+#DEVICE=certus64
+VENDOR=xiaomi
+DEVICE_COMMON=mt6765
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
